@@ -1,0 +1,78 @@
+.root {
+  /* border: 2px solid red; */
+  height: 900px;
+  width: 868px;
+  margin: auto;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShfLbdhnAYdrFu5OA8w8Iol3zCmAjbEva8EgmdXFj_kqEXt8sY5XSToDR6OoeY0B5xMag&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+.image1,
+.image2,
+.image3,
+.image4,
+.image5,
+.image6,
+.image7,
+.image8,
+.image9,
+.image10 {
+  width: 150px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 8px solid rgb(168, 23, 144);
+  /* border-image: url("./img/pexels-photo-556669.jpeg"); */
+  background-color: rgb(175, 20, 154);
+}
+.image1 {
+    left: 301px;
+    top: 94px;
+}
+.image2 {
+    left: 458px;
+    top: 161px;
+    width: 180px;
+    height: 133px;
+}
+.image3 {
+    left: 433px;
+    top: 298px;
+}
+.image4 {
+    left: 274px;
+    top: 299px;
+}
+.image5 {
+    left: 129px;
+    top: 192px;
+    height: 210px;
+  
+}
+.image6 {
+    left: 580px;
+    top: 393px;
+}
+
+.image7 {
+    left: 547px;
+    top: 505px;
+}
+.image8 {
+    left: 389px;
+    top: 507px;
+}
+.image9 {
+    left: 237px;
+    top: 406px;
+}
+.image10 {
+    left: 78px;
+    top: 410px;
+}
